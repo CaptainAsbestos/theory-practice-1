@@ -1,0 +1,160 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 6
+.documents.1.cp: 19
+.documents.1.cw: 55
+.documents.1.margin: 4
+.documents.1.name: "main"
+.documents.1.sticky_selection: false
+.documents.1.viewmode: 3
+.documents.1.wordcount: 1081
+.fileformat: 8
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.name: "/mnt/mediahdd/HDDdocuments/Spring 2021/Tesi_TP1/Summary 1.wg"
+.statusbar: false
+.current: 1
+#1
+H1 Week 1 Summary
+H2 Alex Horne, Theory & Practice I
+H3 Mahoney & Goertz
+P The authors were kind enough to include a table at the beginning of the essay containing the essence of the theoretical comparison; the rest of the paper just elaborated on Table 1's contents. Broadly construed, the two camps diverge significantly in their understanding of critical evidence, causation, and scope. These differences are not irreconcilable, but they do frustrate efforts to synthesize widely acknowledged principles and observations from all sides of academic discourse.
+P Section 2 and 3 puzzled me not just conceptually, but also in my appraisal of the "professionals." Wouldn't the career academics be at least literate in the terminology and logical syntax of both camps? 
+P The qualitative research method seems more iterative - retrying the same hypothesis on a case by case basis, chiseling away the mistaken assumptions until the kernel of a workable theory emerges. Quantitative research, on the other hand, prefers to make a single, decisive pass through as much data as possible, and to derive the conclusions at once. The drawback of the latter approach is that the edge cases don't necessarily get the attention they deserve and are sometimes written off entirely as statistical errors; other researchers might insist that theses cases are still fertile territory for study. This is not to say that outliers are discounted by statisticians -- that would be ridiculous -- but rather, they don't immediately capture the focus of the researchers.
+P The key point I take from this essay is that both the qualitative approach and the quantitative approach are tools with similar yet slightly different uses. As a researcher, it's up to me to recognise which tool is right for the job at hand, thus I must also be aware of the limitations of whichever tool I'm using at any given moment.
+P I particularly aprpeciate the suggestion raised in the conclusion paragraph, that we rebrand quantitative and qualitative methods to 'effect estimation vs outcome explanation,' or 'population-oriented vs case-oriented' (and not least because these labels are easier to tell apart from one another based on spelling alone). 
+H3 Snyder
+P Snyder's describes the basics of three ideologies in IR theory: realism, liberalism, and constructivism. Realism in all its forms descends from the first political scientists, presuming a war of all states against all states. Liberalism emerged concurrently with the ascendant bourgeoisie, prioritising liberal human rights and free trade as the ultimate telos of international relations. Constructivism as presented by Synder seems to be a grab bag category to contain the entirety of anti-imperialism, feminist theory, etc: basically, anything that isn't widely read or studied in the Nato-sphere. 
+P The author gives an overview of how IR theory changed in the aftermath of the 11 September Attacks in 2001. With the shadow of the Bush doctrine looming, he spends a long time explaining how the US hybridised neorealist orthodoxy with liberal ideals in its invasion of Iraq and Aghanistan. The resulting quagmire seemed to confirm the expectations of all spectators, and didn't meaningfully challenge anyone to revisit the fundamental assumptions of their theoretical framework. He points out the strengths and weaknesses of each strain of thinking: realism is useful for studying security matters, but not necessarily trade relations between rivals, for instance.
+P Snyder explains that the current trend in IR theory is towards eclectic particularism: using whatever hypothesis works best for a specific case, and then hopefully generalise that hypothesis later on. While he credits the ambitions of Polanyi and Lenin with their ambitious theories, he points out that they require a great deal more refinement to become useful predictive tools.  The established schools of thought serve as a check on overzealous evangelism in the name of any one theory. He stresses the need for new theoretical models to better explain the changes we are witnessing in world politics.
+P While I was especially frustrated by the lack of attention paid to all the theories dumped into the "constructivist" category, I have to concede I appreciate Snyder's insight at the end about methodological assumptions rather than substantive theories. Realism and liberalism are ideological in a way that rationalism and constructivism are not (even if the subject of constructivist research is itself ideology).
+H3 Walt
+P Where Mahoney and Goertz described the methodological discourse, and Snyder discussed the theoretical discourse, Walt writes about the relation of theory to praxis -- or rather, the lack thereof (at the time of writing, which seems to be 2005). While there has been some cross-polination betwen academia and international political practice, this is the exception rather than the rule.
+P Part of the problem is that academics have different incentives in conducting research and developing their theories than do the politicians expected to employ them. To paraphrase Marx, politicians understand that the point of learning theory is praxis: not to merely understand the world, but to change it. Policy-makers actually have agency over international relations, thus they can deliberately subvert or conform to theoretical predicitons when it suits their interests. Secondly, many theories in international relations have so broad a scope that they are too unwieldly to be used meaningfully by the individual bureaucrats, parties, or organisations who actually participate in international politics.
+P Straightforward, useful, and complete theories about important problems are most useful for political praxis, which involves diagnosing the status quo, anticipating problems, prescribing action to take, and evaluating the success or failure of policy. Unfortunately, there exists a glut of competing theories and variables that a politician would have to understand before they could use them. Further complicating matters is that states and international actors have so many tools at their disposal that only the broadest gneralisations are consistently born out as realistic. "Middle-Range Theory," intended to sit in the aristoteleian golden spot between myopic particularism and sweeping speculation,  unites the worst of both tendencies but offers marginally more useful advice for policy-makers.
+P Walt's prescription for this widening gulf between theory and praxis is to reasses our priorities. Universities shouldn't necessarily become like think tanks, but they should incentivise participating in politics as a profession and reward scholars whose work actually had a positive effect on the world.
+P As a novice academic, I don't have much to comment on in Walt's piece. I'm glad that, fifteen years ago at least, somebody was calling for more political participation and less intellectual spit-balling. But the track record of academics in foreign policy is not a reassuring one - from McNamara to Kissinger to Condoleeza Rice.
+.

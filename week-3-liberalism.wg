@@ -1,0 +1,161 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 1
+.documents.1.cp: 6
+.documents.1.cw: 94
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.sticky_selection: false
+.documents.1.viewmode: 1
+.documents.1.wordcount: 1699
+.fileformat: 8
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.name: "/mnt/mediahdd/HDDdocuments/Spring 2021/Tesi_TP1/week-3-liberalism.wg"
+.statusbar: true
+.current: 1
+#1
+H1 week 3: (Neo-)Liberalism
+H2 Alex Horne PS 6100
+H3 Kant, Perpetual Peace
+P Writing at the apex of the Enlightenment movement in Europe, Kant is best known for his contributions to moral philosophy. Inevitably, this rubs off on the political descendant of Enlightenment rationalism, liberalism. The notion that every country should be a republic, not a monarchy, was radical for its time, but Kant is getting at the implicit assumption of liberal politics that a just state is best, not just ethically but pragmatically (he devotes a lot of time to squaring the circle of utiltiy and morality in his other work). One can't criticise him on this basis alone -- certainly, a state which commands moral legitimacy will survive longer than a personalised monarchical Leviathan when fortunes inevitable sour. 
+P Kant's second thesis is that a confederation of republican states would be in the rational self-interest of any ruler. So long as states behave rationally, even wicked ones would recognise the benefits outweighed the cost, so long as the price for treachery were high enough. 
+P To meaningfully interrogate Kant's ideas would necessitate a critique his moral philosophy, which other people more qualified than me have done. I think that Kant's notion of justice and right has some absurd contradictions, but most importantly, the question of who qualifies as a citizen of a republic was quite narrow for Kant. He was an inveterate racist -- hardly unique for his time and place -- but that is important to consider when he talks about citizenship, the social contract, and violent conflict. Since he believed that non-Europeans were incapable of civilised governance, they were beneath any moral consideration, and thus beneath any political consideration. Therefore, I can't help but ponder how his prescriptions for "world peace" would change if it involved recognising sovereignty of non-European peoples. Lastly, this shortcoming would echo in the future: many of liberalism's ideological champions harboured uninterrogated racist beliefs, which have the possibility to mature into extractive imperialism. 
+H3 Wilson's 14 Points
+P President Woodrow Wilson created this list of articles to state the negotiating position of the United States at the end of the First World War. These principles are widely considered to be a major attempt to enshrine the ideology of liberal idealism in international relations, even though they were partially rejected by almost all parties at the Paris Conference and the US Congress.
+P In pragmatic sense, the Fourteen Points were tailored to address the matter at hand: not just ending the current war, but preventing any conflict so destructive in the future. Wilson believed that states which commanded moral legitimacy in the eyes of their citizens -- ie, democracies -- were less likely to go to war together; blaming the escalation of the Sarajevo crisis into a continental war on the monarchies of the central powers was politically expeditious for the Triple Entente and the US. Likewise with his belief in free-trade as a peace-keeping process: even though it stands to reason that mutual trade would raise the opportunity cost of war, it also suited the US's immediate ends of expanding its exports to Europe. 
+P Wilson also called for international institutions which would seek to resolve conflict between nations, so as to exhaust all non-violent options and make an attack against any one nation an attack against all. This would be realised with the League of Nations, but the fact was that very few in the world accepted Wilson's ideas as practical. Thus, the US refused to enter, the new Soviet Union was kicked out, and the French and British had little incentive to remain aside from kicking around the losers of the First World War.
+P Lastly, Wilson identified national self-determination as a way to prevent massive world war. For example, if the Austrian Empire were broken up into nation-states organised by ethnic identity, it's conceivable that the assassination of Franz Ferdinand would not have happened at all. However, only the losing empires were forced to give up their possessions, while the victors kept theirs. Moreover, the new nation-states which emerged were not ethnically homogenous -- and the question of where borders were drawn and who counts as a citizen in a nation-state laid the groundwork for 20 years of ethnic cleansing and, eventually, another World War. 
+H3 Liberalism -- Russet
+P Russet characterises Kantian Idealism and its ideological descendants as an elaboration on Realism. Kant doesn't flat out reject the ideas of Hobbes and Machiavelli, but he conjectures that a rational harmony of interests can be found between enlightened rulers. Kant likely arrived at this conclusion by looking at the history of Königsberg, Prussia (present-day Kaliningrad) in the Hanseatic League: a confederation of mercantilist city states in the Baltic and North Seas, allied militarily and economically bound by the trade network spanning the distance from Dublin to Petrograd. Then, Kant's ideas were radical, but the last three hundred years have given credence to the theory that life will not always be nasty, brutish, and short.
+P While many realists will credit the arrival of new balance of power after 1945 for securing the long peace, liberals claim that the IGOs like the UN and the Bretton-Woods System are in some part responsible. The gradual process of democratisation in former colonies and in authoritarian states has been welcomed by liberals; the neighbourhood effect and "fear of missing out" are compelling reasons to "liberalise" ones state. Once the liberal peace project acquires enough inertia, it is difficult to oppose its momentum.
+P It must be noted that liberal democracies are quite bellicose when prosecuting war against authoritarian states -- the US invasion of Iraq stands for itself as a salient critique of liberal idealism. Secondly, less powerful states are bound tightly by the limitations of supra-national or international regimes, while great powers like the US are not. Lastly, many ask if such a long peace were possible without the hegemonic leadership of a single state, regardless of the qualities of such a state. 
+P The EU is a liberal project, if not the liberal project. After the bloodshed of two World Wars and the collapse of European empires abroad, many on the continent say that the Union keeps Europe relevant. What started as a coal-and-steel trading bloc in Western Europe to close ranks against the possibility of Soviet invasion has mutated into a much more ambitious project to create a confederation based on liberal politics and economics. While the rest of the world is busy fretting about the Chinese eclipsing the US, the European Common Market is still the world's largest trading bloc, one of its largest markets, and one of the wealthiest economies in the world by GDP per capita. The common market eliminates national barriers to investments and exports within the bloc, and labourers are theoretically free to move between member-states in pursuit of better pay. The Eurozone also pools the monetary supplies of multiple nations; this gives weaker economies to enjoy better access to credit as the risk partially underwritten by the stronger economies of the monetary union. The stronger economies, in turn, had a new export market and access to cheap labour. 
+P All these facts would be well and good, were it not for the political dysfunction which the Union faces. The Eurozone crisis of the early 2011s showed that the short-term benefits of a monetary union had to be squared with sound long-term strategies. In 2016, the UK voted to leave the Union -- in June of the same year in which Russet published this case study. The refugee crisis caused by the Arab Spring's aftermath also revealed simmering racist hostility to non-Europeans, and the overall window of politics in the Union has drifted rightward. Citizens of lesser member-states such as Greece resent having the terms of their economy dictated to them by Franco-German leadership, and for their part the Germans are beginning to renounce their central role in the Union unless the rest play by their rules (which the French and Polish are naturally wary of). Lastly, the Union has failed to expand its membership significantly since the turn of the millennium, which some believe is necessary to deter their hegemonic Russian neighbour. 
+H3 Neoliberalism -- Sterling Folker 
+P The neoliberal turn coincided with the '70s détente: nuclear parity between the Warsaw Pact and NATO had been reached, the US was stepping down from its commitments to the gold standard, the Sino-Soviet split had begun, and European states were seeking reconciliation with Soviet-occupied states. As economic globalisation became more entrenched, neoliberal theorists stated that the boundaries between national and international activity were eroding. A hegemonic US stabilised the liberal economic sphere, and growing interdependence did as liberalism predicted: raised the cost of conflict with other liberal economies. This stood in opposition to the more decentralised federalism which Kant imagined: the US's active involvement was necessary, not just as a trading partner but also as a force for political change. It's a matter of debate how much Wilson would have agreed with this new role for the US; obviously, he was not an isolationist.
+P Krasner called the emerging system of international cooperation a "regime," and now the field of regime studies has identified several regimes in many domains: arms control, trade, environmental conservation, etc. These regimes do not function optimally in reality, suffering from the typical free-rider-problems and mutual suspicions of international relations. Structural realists use this observation to dismiss neoliberal theory, but neoconservatives (a genus of neoliberals) would say that making the regimes function properly requires "motivating states to cooperate to achieve absolute gains," to paraphrase Sterling-Folker. (if that doesn't sound like a threat, what would?) At any rate, game theorists like Oye point out that the iterative process of politics through international institutions at least provides a less destructive arena for states to enter and resolve conflicts, but (as we see in practice) this leads to a strange equation of political values and economics interests -- an equivocation that stands at odds with liberal human rights, in many famous cases. And that is the kernel of truth at the heart of neoliberal ideology: there is no distinction, ultimately, between the two. Everything is suborned to the market, one way or another. 
+.

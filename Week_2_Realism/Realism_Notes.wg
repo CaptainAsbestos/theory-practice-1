@@ -1,0 +1,189 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.documents.1.co: 2
+.documents.1.cp: 37
+.documents.1.cw: 45
+.documents.1.margin: 4
+.documents.1.name: "main"
+.documents.1.viewmode: 2
+.documents.1.wordcount: 1480
+.fileformat: 8
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.name: "/mnt/mediahdd/HDDdocuments/Spring 2021/Tesi_TP1/Week_2_Realism/Realism_Notes.wg"
+.statusbar: false
+.current: 1
+#1
+H1 Realism
+H4 Thucydides, "The Melian Dialogue"
+LB The strong do what they will and the weak do what they must.
+LB Thucydides claimed that polities go to war out of fear, self-interest, and pride
+LB The Peloponnesian War between the Athenian Empire and Sparta
+LB Melos was a minor state that got caught in the conflict, defeated by Athens
+LB Their statesmen sought to convince Athens to allow the Melians to keep their constitution and independence, the Athenians didn't care 
+LB The Melians would rather fight with the chance of victory than submit immediately and be spared; the athenians sought to dissuade them so that it would be a bloodless transition
+LB Crucially, the Athenians didn't justify their conquest and treatment -- they said that it was natural, and that the Melians would do the same thing to Athens, were they in the same position
+LB The Melians counter by saying that if Athens destroys neutral states, the rest of Greece will ally against them
+LB The athenians counter by saying that Melos is about to lose its sovereignty, and the Athenians need to make an example out of a rebellious client state that dares to oppose them
+LB In the end, Athens loses the war. Karma's a bitch
+LB The arguments of both sides were quite self serving -- many speculate that the dialogue didn't happen like thucydides wrote at all, but he either invented it or editorialised it to make his points
+H4 Hobbes, "Leviathan"
+LB Bow down before the one you serve, you're going to get what you deserve
+LB Hand over all authority to the state, and in return the state protects its subjects from internal strife and foreign aggression
+LB Hobbes outlines the idea of a "unitary actor", who is in control of all its factors of production and culture
+LB This idea was shaped by his experience during the english civil war which ravaged the country of england
+H4 Hans Morgenthau
+LB Work not in opposition to human wickedness, but alongside it
+LB Draws on the ideas of Augustine of Hippo as well - that man is fundamentally innately wicked, but can aspire to become better within the regimes of the cities of Man and God
+LB Augustine conception of Just War - how is this relevant for a realist?
+LB Popularised structural realism along with Kennan in the early days of the Cold War 
+LB Raison de l'etat - the eternal interests of the state, from adminitration to administration
+LB Added autonomy to the vocab of realist theory: a polity not entirely in control of itself is beneath consideration (such as colonies)
+LB Morgenthau's definition of Peace - when a state is claiming to "seek peace", it really means "peace on our terms" and its interest is based on its own survival
+LB The most important obligation of any state is to preserve the integrity of its territory and the safety of its subjects, and to fail to do so is the worst mistake a leader can make. likewise, the leaders of all states should recognise that regime change or relitigating territorial boundaries are the most destabilising of all possible political changes 
+H4 What is realism?
+LB Operating principle is the anarchic world order, the state as the actor of politics, and the pursuit of power for its own sake
+LB Where liberals prize legitimacy, realists prize power
+LB What is power? the ability to make ppl do things that they otherwise wouldn't do if it weren't for you telling them to. Not just coercion, but also persuasion (Nye, Soft Power)
+LB Who qualifies as a state? The question of legitimacy - most realists would say that if you are in control of your state, you are a state; most would not say that being recognised by other states is what gives you legtimacy, but it certainly helps your claim
+LB the state as a unitary actor: states should seek to be completely in control of their societies, or else they won't be able to maneuver as effectively as their enemies (thank Hobbes for this idea)
+LB Lastly, realists presume that states act rationally or at least should act as rationally as possible. pursuing not just its self-interest but also its survival
+LB evolved from ancient history, but specifically Macchiavelli, who described it at length in Il Principe, which described all personalised rule ought to be carried out amorally but virtuously 
+LB a perfect world is not possible, but working with rather than against a fundamentally selfish human nature might produce better results than trying to reform the human character
+LB Is any of this realistic in practice? certainly to some degree, but undoubtedly not perfectly correct. Democracies are unable to completely keep their societies under unitary control of the state, and yet some democracies have become quite powerful in a realistic sense. similarly, do states always act rationally? or do they often act quite irrationality? and hasn't the history of humanity been the story of human nature slowly, but surely, changing in response to major leaps forward in empathy?
+LB Marxist critiques of realism: the base and superstructure concept. politics emerges from the factors of production, not the state creating the mode of production ex nihilo.
+LB How do the realists explain the First World War and the End of the Cold War? for WW1, they stipulate that the powers of europe were behaving irrationally - not clearly evaluating their national interests, and discounting the cost of massive war. The end of the cold war caught them utterly by surprise, so some of them credit the massive military spending of the US vs the Soviets
+LB Usefulness of Realism: very good at explaining military matters, but falls into the trap of escalation in the security trap. it also is ill-equipped to explain phenomena like deténte (although some suggset the '70s deescalation was because an equilibrium of power had been attained, and there was nothing else to do)
+LB Security dilemma: if you want peace, prepare for war. but if you see your neighbours building up its military capacity, how do you know if their intentions are defensive or offensive? no way to ever be certain, so you build up your own capacity. the end result is that the productive capacities of the rival states determine who has the upper hand - and almost certainly, the resources dedicated to military spending could be used elsewhere (here begins the liberal critique). Also, this justifies total war between states, targeting civilians on the enemy sides, and when all a state has a warhammer, everything looks like a nail....
+LB Ideally, realists are not warmongers - they are just very judicious about when military conflict is the best option. several prominent realists scholars dissented against the Vietnam war (such as morgenthau) and against the Iraq war(s)
+H4 Variants of Realism
+LB Structural Realism: developed to explain the failure of the UN to create the liberal world order it was supposed to; essentially rational states continue to act realistically but through the institutions of supra-national structures. The structures determine, in part the distribution of power, thus, altering the structures can change the landscape of international politics. During the cold war, the bipolar system was considered to be a balance of power, even though conflict dyads in classical realism would predict that war was likely (indeed, it was quite likely)
+LB Relative Power: how powerful a state is relative to others. realists don't really care much about absolute power, and this is where the liberal theorists technically have the edge: because absolute gains in trade are pretty nice, even if absolute gains in military prowess might be made moot by the relative superiority of rival states
+LB Offensive vs. Defensive realism: status quo vs revisionism. The Balance of Power is based on a defensive posture, basically to make invading your territory so painful for the invader that nobody will try it. Offensive realism is the idea that you need to be just as able to kick ass as everybody else, and push the envelope as far as you can before the rest of the world is able to push back. Offensive realists say that revisionist states will seek to acquire power and hegemony if they can, and thus the existing hegemons indeed have the duty to keep them down. More prevalent in classical realism - the first world war showed why structures in the international order were needed, and you couldn't just be purely defensive or offensive against offenders 
+LB Classical Realism: the OGs of political theory, hobbes, thucydides, machiavelli, bismarck, &c. considered outdated since 1914
+LB Is power merely a means to an end or an end in itself? the classicals say yes, because the less power you have the more power others have, and the less in control of your circumstances you are. Structural realists concede that power is merely the currency of politics, and you spend it on outcomes you desire -- slightly different, because states seek power to perpetuate their values as well as states' survival
+LB Eurocentrism: Sunzi arrived at the same conclusions in pre-Qin China
+.

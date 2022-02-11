@@ -1,0 +1,168 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: false
+.addons.autosave.pattern: "%F.autosave.%T.wg"
+.addons.autosave.period: 10
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.clipboard.co: 1
+.clipboard.cp: 1
+.clipboard.cw: 1
+.clipboard.margin: 0
+.clipboard.viewmode: 1
+.clipboard.wordcount: 23
+.documents.1.co: 1
+.documents.1.cp: 18
+.documents.1.cw: 1
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.sticky_selection: false
+.documents.1.viewmode: 1
+.documents.1.wordcount: 1484
+.fileformat: 8
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.name: "/mnt/mediahdd/HDDdocuments/Spring 2021/Tesi_TP1/decision-theory/decision-theory-agh.wg"
+.statusbar: true
+.current: 1
+#clipboard
+P Certainly each explanation offered in Allison's paper captures an element of the truth; any theory which claims to be all-encompassing is immediately suspect.
+.
+#1
+H1 Decision Making Theories
+H2 PS 6100, Theory & Practice I
+H3 Alex Horne
+H4 Van Evera
+P Writing in January of 2002, Van Evera's advice on the dangers of self-delusion couldn't have been more pertinent. As an antidote to institutional allergies against self-evaluation, he calls for greater pluralism in academia and civil society, more governmental transparency, and straight-forward foreign policies goals which can be modified if proven unsound. He arrives at this conclusion by extending psycho-social concepts to political science, explaining how the "fog of war" can often be worsened by the "fog of self-delusion." I agree that transparency and modifiable policy priorities would help in this regard; I disagree with his characterisation of the state of academia as too esoteric to be useful. Lastly, his own argument suggests that an abundance of voices is both the problem and solution. If we really do face an epistemological crisis, further balkanising the field of discourse doesn't exactly solve anything.
+P It's perfectly obvious that Van Evera assessed the problems from a non-ideological perspective, which is perfectly reasonable. After all, he is trying to offer a psychological explanation for the superficially irrational behaviour of great powers. But every time he advanced an example of a state avoiding self-evaluation, they were all imperial powers or revisionist powers seeking an empire of their own. The mask slips here; he discounts Lenin and Luxemburg's analysis of the causes of imperialist wars as "self-serving propaganda," but does not elaborate on how they were self-serving narrativse. Critical theorists and post-colonial scholars operate entirely within this realm, and I balk at this uncharitable description. And for what it's worth, the Soviet leadership under Lenin reversed course from War Communism to the New Economic Policy (which surpassed agrarian outputs under the Czardom), which endured until Stalin purged the party of opposition in pursuit of rapid industrialisation. The world will sadly never know about Luxemburg, since she was executed by Freikorps on the orders of Ebert and the democratic socialists.
+P Van Evera also refuses to discuss any positive examples of self-evaluation at length, aside from to give credit to the Anglosphere for being "best" at it. Incredibly, he says the US "learned from the mistakes of Vietnam" -- right as Colin Powell, who covered up the My Lai Massacre, was propagating the lie of Iraqi WMDs in the UN General Assembly. I'm sure Van Evera was opposed to that invasion, although I'm at a loss to find any evidence aside from just what I would expect of a defensive realist. But the lessons the US learned from Vietnam were not that proxy wars were not worthwile; that assumption has remained fundamentally unchallenged, even up to the Clinton White House (in which Van Evera served). The US learned, instead, that managing the political costs of a proxy war was how to win a multi-decade war, as we see in the multigenerational conflict raging on both sides of Iran's borders. To an imperialist power such as the United States, the folly of Vietnam was not the war itself: it was the draft. 
+P His failure to address the fingerprints of ideology on foreign policy are a weakness, but it serves his end of keeping foreign policy goals limited and simple. I'm not fundamentally opposed to that, but he's right for the wrong reasons.
+H4 Allison
+P The author offers three models by which to interpret the actions of the belligerent powers in the Cold War. Rational actor theory, borrowed from the realm of economics, yields a flattering image of statesmen acting to maximise their power as if advancing pawns on a chessboard. Interpreting the crisis thus, the missiles placed in Cuba were Khrushchev overextending his line, and having to trade several pieces with the Americans to avoid checkmate -- the US were clever enough to wait for him to make the "first bad move." It coincides neatly with Realist theories because it presumes complete top-down control of a polity and its military and emphasises power-maximisation; it doesn't challenge many of the bedrock concepts of realist theory.
+P The organisational process model offers a less concise, albeit comforting, perspective. In this theory, states seek to minimise risk as much as possible, rather than maximise power. Thus, leaders rely on established channels and gamed-out protocols. The preference to "hedge one's bets" explains why the Kennedy administration avoided rapid escalation, and why the Soviets capitulated: the Soviet state organs were relatively inflexible in how they could respond, by which point they had to choose between "do or die."
+P The last model, the Court Politics model, offers the least charitable vision of leadership. The Premier was beholden to (yet suspicious of) the Soviet Presidium. Likewise, the President was suspicious of the intentions of his military advisors following Operation Zapata, but Kennedy was also 1politically pressured into a Hawkish position by the opposition in the Congress. Responding to perceptions of weakness against the Americans vis-à-vis NATO missiles in Turkey, Khrushchev was forced to take a risky gamble with Cuban missiles to secure his own political future within Soviet politics. In response, Kennedy had to take a hawkish stance for the exact same reason. To circumvent hardliners on both sides, Kenendy used back-door communication to deal with Khrushchev individually. Khrushchev and Kennedy both got political wins to take back home: Kennedy was able to look like a steely negotiator rather than an incompetent, and Khrushchev could say likewise for using a strategic bluff to improve the security of the Union. 
+P The significance of this article can't be understated: what Watson and Crick's Double-Helix paper did for biology, so did Allison for international relations as a science. Not only were his predictions borne out by the historical record, the utility of these alternative models were profound. Certainly each explanation offered in Allison's paper captures an element of the truth; any theory which claims to be all-encompassing is immediately suspect. Lastly, it's important to acknowledge that Mutually Assured Destruction nearly failed as a peacekeeping measure in 1963, but only rational actor theory assumes that it worked, while also being historically mistaken. In conjunction with Van Evera's piece, it's a reminder not to be too steeped in dogma, because the consequences can occasionally be apocalyptic. That is something we would do well to remember as the climate crisis worsens past the point of no return, if that point hasn't already been reached.
+H4 Putnam
+P Putnam examines the course of the 1978 G7 Summit in Bonn to explain his two-set game theory of international negotiation. In the simplest variety, he likens it to three games being played on three different boards: two are between leaders and their domestic stakeholders, and the last is between the leaders of different states.
+P By win-sets, Putnam means any agreements which the domestic stakeholders would find satisfactory. The job of the chief negotiator is to build coalitions with domestic stakeholders (be they a Parliament or Presidium) and arrive at a consensus for what agreements could be made at a summit. Then, the negotiators meet with others, and seek to ascertain whether any mutually satisfactory outcomes could be found. However, negotiators can raise the spectre of involuntary defection (domestic coalitions unwilling to ratify an agreement made between negotiators) to get more from the other parties. While the incentive to cheat certainly exists, Putnam's model is useful for explaining summits between powers who anticipate meeting again. Thus, revelations of cheating would severely hamper ones negotiating position in the next round. In the case of the Bonn summit, the agreements were reached and honoured because each negotiator promised to deliver, and what they promised was clear and conceivably within their power. Deliverability, then, is credibility that a negotiator can accomplish their end of the bargain; if domestic stakeholders routinely refuse to accept agreements taken back home, it undermines their entire state's diplomatic credibility. Having a lesser number of satisfactory outcomes for domestic stakeholders can enhance a negotiators bargaining position at the summit.
+P Lots of Putnam's writing is just jargonising common knowledge about how negotiations work. He references Allison in his literature review, specifically referring to the "bureaucratic political model" of the Cuban missile crisis (aka the Third Model Allison proposed). Beginning with a rather exceptional case study, Putnam reverse engineers an entire working theory about how international politics interfaces with domestic politics, which necessarily erodes the state-centric paradigm of the realists. At first, it seemed like this was a theory tailor made to fit a single event, but on reflection I can see how it explains the collapse of the TPP negotiations, the internal dynamics of the EU, and so on. Nevertheless, a realist would counter that the G7 in 1978 were an alliance of regional powers aligned against the Commmunist Powers, including the PRC, so that would be sufficient explanation for their unexpectedly successful collaboration: national interests were in alignment, or at least, not so far out of alignment that the various member-states lost sight of the bigger picture. 
+P 
+.
